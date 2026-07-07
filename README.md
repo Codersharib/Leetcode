@@ -47,6 +47,7 @@ leetcode solution.
 | [0046-permutations](https://github.com/Codersharib/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Codersharib/Leetcode/tree/master/0078-subsets) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
@@ -89,5 +90,10 @@ leetcode solution.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
