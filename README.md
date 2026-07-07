@@ -14,6 +14,7 @@ leetcode solution.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ leetcode solution.
 | [0078-subsets](https://github.com/Codersharib/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Array
 |  |
 | ------- |
@@ -51,6 +53,7 @@ leetcode solution.
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
 |  |
 | ------- |
@@ -83,4 +86,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
