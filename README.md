@@ -54,6 +54,7 @@ leetcode solution.
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -83,6 +84,7 @@ leetcode solution.
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
@@ -100,6 +102,7 @@ leetcode solution.
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
