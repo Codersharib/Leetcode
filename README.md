@@ -27,6 +27,7 @@ leetcode solution.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
+| [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -51,6 +52,7 @@ leetcode solution.
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
+| [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -95,10 +97,12 @@ leetcode solution.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
