@@ -44,6 +44,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Codersharib/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Codersharib/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Codersharib/Leetcode/tree/master/0046-permutations) |
@@ -120,6 +121,7 @@ leetcode solution.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
