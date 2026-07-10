@@ -8,6 +8,7 @@ leetcode solution.
 | ------- |
 | [0027-remove-element](https://github.com/Codersharib/Leetcode/tree/master/0027-remove-element) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -133,4 +134,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
