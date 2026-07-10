@@ -8,6 +8,7 @@ leetcode solution.
 | ------- |
 | [0027-remove-element](https://github.com/Codersharib/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -76,6 +77,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Math
 |  |
@@ -145,7 +147,16 @@ leetcode solution.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Codersharib/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
