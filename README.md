@@ -67,6 +67,7 @@ leetcode solution.
 | [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Greedy
 |  |
@@ -138,6 +139,7 @@ leetcode solution.
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Ordered Set
 |  |
 | ------- |
