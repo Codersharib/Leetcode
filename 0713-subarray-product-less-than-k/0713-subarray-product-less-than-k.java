@@ -9,7 +9,7 @@ class Solution {
         while(ei<arr.length){
             p*=arr[ei];
             // shrink
-            while(p>=k){
+            while(p>=k && si<=ei){
                 p/=arr[si];
                 si++;
             }
