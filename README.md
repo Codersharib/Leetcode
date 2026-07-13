@@ -225,4 +225,8 @@ leetcode solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Codersharib/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
