@@ -121,6 +121,7 @@ leetcode solution.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -195,11 +196,13 @@ leetcode solution.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Codersharib/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -212,5 +215,6 @@ leetcode solution.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Codersharib/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
