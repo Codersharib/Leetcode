@@ -101,6 +101,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Codersharib/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Codersharib/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0206-reverse-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -160,6 +161,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Codersharib/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Codersharib/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
