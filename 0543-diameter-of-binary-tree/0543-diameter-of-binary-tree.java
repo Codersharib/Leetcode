@@ -15,16 +15,21 @@
  */
 class Solution {
     public int diameterOfBinaryTree(TreeNode root) {
-        if(root==null) return 0;
-        int ld=diameterOfBinaryTree(root.left);
-        int rd=diameterOfBinaryTree(root.right);
-        int sd=ht(root.left)+ht(root.right)+2;
-        return Math.max(sd,Math.max(rd,ld));
+        return diameter(root).dia;
     }
-    public int ht(TreeNode root){
-        if(root==null) return -1;
-        int lh=ht(root.left);
-        int rh=ht(root.right);
-        return Math.max(lh,rh)+1;
+    
+    public DiaPair diameter(TreeNode root){
+        if(root==null) return new DiaPair();
+        DiaPair ldp=diameter(root.left); //(dia,ht)
+        DiaPair rdp=diameter(root.right); //(dia,ht)
+        DiaPair sdp=new DiaPair();
+        int sd=ldp.ht+rdp.ht+2;
+        sdp.ht=Math.max(ldp.ht,rdp.ht)+1;
+        sdp.dia=Math.max(sd,Math.max(ldp.dia,rdp.dia));
+        return sdp;
+    }
+    class DiaPair{
+        int dia=0;
+        int ht=-1;
     }
 }
