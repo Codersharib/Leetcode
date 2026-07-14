@@ -203,6 +203,7 @@ leetcode solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -212,6 +213,7 @@ leetcode solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@ leetcode solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 ## Enumeration
 |  |
 | ------- |
