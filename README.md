@@ -91,6 +91,7 @@ leetcode solution.
 | ------- |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Codersharib/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -264,4 +265,8 @@ leetcode solution.
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Codersharib/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Codersharib/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
