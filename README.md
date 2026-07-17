@@ -34,6 +34,7 @@ leetcode solution.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -63,6 +64,7 @@ leetcode solution.
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -178,6 +180,7 @@ leetcode solution.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -213,6 +216,7 @@ leetcode solution.
 | [0101-symmetric-tree](https://github.com/Codersharib/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Codersharib/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -264,6 +268,7 @@ leetcode solution.
 | [0101-symmetric-tree](https://github.com/Codersharib/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Codersharib/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
