@@ -72,6 +72,7 @@ leetcode solution.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
@@ -95,6 +96,7 @@ leetcode solution.
 | ------- |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -188,6 +190,7 @@ leetcode solution.
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -209,6 +212,7 @@ leetcode solution.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -307,4 +311,8 @@ leetcode solution.
 | [0700-search-in-a-binary-search-tree](https://github.com/Codersharib/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Codersharib/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
