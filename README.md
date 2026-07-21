@@ -10,6 +10,7 @@ leetcode solution.
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -38,6 +39,7 @@ leetcode solution.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -74,6 +76,7 @@ leetcode solution.
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -97,6 +100,7 @@ leetcode solution.
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -165,6 +169,7 @@ leetcode solution.
 | [0033-search-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
