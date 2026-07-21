@@ -18,6 +18,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -36,6 +37,7 @@ leetcode solution.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Codersharib/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -67,6 +69,7 @@ leetcode solution.
 | [0039-combination-sum](https://github.com/Codersharib/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Codersharib/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Codersharib/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Codersharib/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -100,6 +103,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
