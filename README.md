@@ -20,6 +20,7 @@ leetcode solution.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ leetcode solution.
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Backtracking
 |  |
@@ -218,6 +220,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Queue
 |  |
