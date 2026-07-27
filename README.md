@@ -347,4 +347,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Codersharib/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Codersharib/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
