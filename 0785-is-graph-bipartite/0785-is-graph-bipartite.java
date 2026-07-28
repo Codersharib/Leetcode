@@ -12,9 +12,7 @@ class Solution {
                 BipartitePair rp = q.poll();
                 // ignore
                 if (visited.containsKey(rp.vtx)) {
-                    if (visited.get(rp.vtx) != rp.dis) {
-                        return false;
-                    }
+                    if (visited.get(rp.vtx) != rp.dis) return false;
                     continue;
                 }
                 // mark viisted
@@ -31,9 +29,7 @@ class Solution {
         return true;
     }
     class BipartitePair {
-
         int vtx, dis;
-
         public BipartitePair(int vtx, int dis) {
             this.vtx = vtx;
             this.dis = dis;
