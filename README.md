@@ -279,6 +279,7 @@ leetcode solution.
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -290,6 +291,7 @@ leetcode solution.
 | [0112-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Codersharib/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -339,6 +341,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Codersharib/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Design
 |  |
 | ------- |
@@ -351,4 +354,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Codersharib/Leetcode/tree/master/0595-big-countries) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
