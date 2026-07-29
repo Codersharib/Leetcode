@@ -12,7 +12,7 @@ class Solution {
                 biPair rp = q.poll();
                 // ignore
                 if (visited.containsKey(rp.vtx)) {
-                    if (visited.get(rp.vtx) != rp.dis) {
+                    if (visited.get(rp.vtx)%2 != rp.dis%2) {
                         return false;
                     }
                     continue;
