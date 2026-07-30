@@ -83,6 +83,7 @@ leetcode solution.
 | [0128-longest-consecutive-sequence](https://github.com/Codersharib/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Codersharib/Leetcode/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -146,6 +147,7 @@ leetcode solution.
 | ------- |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 ## Memoization
 |  |
@@ -278,6 +280,7 @@ leetcode solution.
 | [0144-binary-tree-preorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Codersharib/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -292,6 +295,7 @@ leetcode solution.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Codersharib/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
@@ -344,6 +348,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Codersharib/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 ## Design
 |  |
