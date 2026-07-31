@@ -362,6 +362,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Codersharib/Leetcode/tree/master/0595-big-countries) |
+| [1757-recyclable-and-low-fat-products](https://github.com/Codersharib/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Graph Theory
 |  |
 | ------- |
