@@ -43,6 +43,7 @@ leetcode solution.
 | [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -112,6 +113,7 @@ leetcode solution.
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
@@ -167,6 +169,7 @@ leetcode solution.
 | [0064-minimum-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 ## Memoization
 |  |
