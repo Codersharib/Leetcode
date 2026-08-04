@@ -23,6 +23,7 @@ leetcode solution.
 | [0208-implement-trie-prefix-tree](https://github.com/Codersharib/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
+| [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Dynamic Programming
 |  |
@@ -36,6 +37,7 @@ leetcode solution.
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
@@ -377,4 +379,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
