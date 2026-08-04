@@ -46,6 +46,7 @@ leetcode solution.
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ leetcode solution.
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -171,6 +173,7 @@ leetcode solution.
 | [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Memoization
 |  |
 | ------- |
