@@ -35,6 +35,7 @@ leetcode solution.
 | [0300-longest-increasing-subsequence](https://github.com/Codersharib/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
@@ -99,6 +100,7 @@ leetcode solution.
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
@@ -386,4 +388,12 @@ leetcode solution.
 | ------- |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
