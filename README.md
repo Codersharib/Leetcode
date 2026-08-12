@@ -62,6 +62,7 @@ leetcode solution.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +123,7 @@ leetcode solution.
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -263,6 +265,7 @@ leetcode solution.
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Queue
 |  |
 | ------- |
