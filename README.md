@@ -27,6 +27,7 @@ leetcode solution.
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Codersharib/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ leetcode solution.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Codersharib/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
 | ------- |
@@ -268,6 +270,7 @@ leetcode solution.
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Codersharib/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Queue
 |  |
 | ------- |
