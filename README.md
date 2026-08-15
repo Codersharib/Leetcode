@@ -430,4 +430,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Codersharib/Leetcode/tree/master/0518-coin-change-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
