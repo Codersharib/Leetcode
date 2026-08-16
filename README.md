@@ -13,6 +13,7 @@ leetcode solution.
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -25,6 +26,7 @@ leetcode solution.
 | [0208-implement-trie-prefix-tree](https://github.com/Codersharib/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Codersharib/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -121,6 +123,7 @@ leetcode solution.
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
@@ -133,6 +136,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Sorting
