@@ -40,6 +40,7 @@ leetcode solution.
 | [0115-distinct-subsequences](https://github.com/Codersharib/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Codersharib/Leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/Codersharib/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Codersharib/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -108,6 +109,7 @@ leetcode solution.
 | [0198-house-robber](https://github.com/Codersharib/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Codersharib/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/Codersharib/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Codersharib/Leetcode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Codersharib/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -191,6 +193,7 @@ leetcode solution.
 | [0064-minimum-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/Codersharib/Leetcode/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
