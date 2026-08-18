@@ -14,6 +14,7 @@ leetcode solution.
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
@@ -130,6 +131,7 @@ leetcode solution.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codersharib/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -215,6 +217,7 @@ leetcode solution.
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Codersharib/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -225,6 +228,7 @@ leetcode solution.
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Codersharib/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +242,7 @@ leetcode solution.
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Ordered Set
 |  |
 | ------- |
@@ -442,4 +447,8 @@ leetcode solution.
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
