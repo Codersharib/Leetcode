@@ -1,32 +1,27 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        return Maximum_window(nums, k);
+        return max(nums, k);
     }
 
-    public static int[] Maximum_window(int[] arr, int k) {
-        int[] ans = new int[arr.length - k + 1];
-        Deque<Integer> dq = new LinkedList<>();
-        int j = 0;
-        //1st window ka answer
-        for (int i = 0; i < k; i++) {
-            while (!dq.isEmpty() && arr[i] > arr[dq.getLast()]) {
-                dq.removeLast();
+    public static int[] max(int[] arr,int k){
+        Deque<Integer> q=new LinkedList<>();
+        int[] ans=new int[arr.length-k+1];
+        for (int i = 0; i < k-1; i++) {
+            while(!q.isEmpty() && arr[i]>arr[q.peekLast()]){
+                q.pollLast();
             }
-            dq.add(i);
+            q.add(i);
         }
-        ans[j++] = arr[dq.getFirst()];
-        for (int i = k; i < arr.length; i++) {
-            // grow
-            while (!dq.isEmpty() && arr[i] > arr[dq.getLast()]) {
-                dq.removeLast();
+        int idx=0;
+        for (int i = k-1; i < arr.length; i++) {
+            while(!q.isEmpty() && arr[i]>arr[q.peekLast()]){
+                q.pollLast();
             }
-            dq.add(i);
-            // shrink
-            if (dq.getFirst() == i - k) {
-                dq.removeFirst();
+            q.addLast(i);
+            if (q.getFirst() == i - k) {
+                q.removeFirst();
             }
-            // ans update
-            ans[j++] = arr[dq.getFirst()];
+            ans[idx++]=arr[q.peekFirst()];
         }
         return ans;
     }
