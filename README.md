@@ -7,6 +7,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Codersharib/Leetcode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Codersharib/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Codersharib/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Codersharib/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -34,6 +35,7 @@ leetcode solution.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Codersharib/Leetcode/tree/master/0072-edit-distance) |
@@ -92,6 +94,7 @@ leetcode solution.
 | [0033-search-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Codersharib/Leetcode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Codersharib/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Codersharib/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
@@ -206,6 +209,7 @@ leetcode solution.
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
@@ -222,6 +226,7 @@ leetcode solution.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Codersharib/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Codersharib/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
