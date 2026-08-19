@@ -130,6 +130,7 @@ leetcode solution.
 | [0739-daily-temperatures](https://github.com/Codersharib/Leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/Codersharib/Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
