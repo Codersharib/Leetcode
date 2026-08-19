@@ -106,6 +106,7 @@ leetcode solution.
 | [0090-subsets-ii](https://github.com/Codersharib/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Codersharib/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Codersharib/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Codersharib/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Codersharib/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Codersharib/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Codersharib/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -142,6 +143,7 @@ leetcode solution.
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Codersharib/Leetcode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
