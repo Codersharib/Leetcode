@@ -9,7 +9,7 @@ class Solution {
             int mid=l+(h-l)/2;
             if(arr[mid]==target) return mid;
             if(arr[mid]>=arr[l]){
-                if(arr[mid]>=target && target>=arr[l]){
+                if(target>=arr[l] && arr[mid]>=target){
                     h=mid-1;
                 }
                 else{
