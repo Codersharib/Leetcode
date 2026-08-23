@@ -125,6 +125,7 @@ leetcode solution.
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Codersharib/Leetcode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Codersharib/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0330-patching-array](https://github.com/Codersharib/Leetcode/tree/master/0330-patching-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Codersharib/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0456-132-pattern](https://github.com/Codersharib/Leetcode/tree/master/0456-132-pattern) |
@@ -155,6 +156,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Codersharib/Leetcode/tree/master/0134-gas-station) |
+| [0330-patching-array](https://github.com/Codersharib/Leetcode/tree/master/0330-patching-array) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
