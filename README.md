@@ -147,6 +147,7 @@ leetcode solution.
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Codersharib/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Codersharib/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codersharib/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -265,6 +266,7 @@ leetcode solution.
 | [0852-peak-index-in-a-mountain-array](https://github.com/Codersharib/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Codersharib/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Codersharib/Leetcode/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 ## Ordered Set
 |  |
 | ------- |
