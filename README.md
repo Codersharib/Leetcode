@@ -21,6 +21,7 @@ leetcode solution.
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codersharib/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Codersharib/Leetcode/tree/master/0072-edit-distance) |
@@ -59,6 +60,7 @@ leetcode solution.
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codersharib/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
@@ -313,6 +315,7 @@ leetcode solution.
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Codersharib/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Codersharib/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Codersharib/Leetcode/tree/master/0713-subarray-product-less-than-k) |
