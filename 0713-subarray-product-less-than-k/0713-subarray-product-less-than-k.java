@@ -1,22 +1,22 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
-        return product_less_k(nums,k);
+        return sliding(nums,k);
     }
-    public static int product_less_k(int[] arr,int k){
-        int ans=0;
-        int p=1,si=0,ei=0;
-        // grow
+    public static int sliding(int[] arr,int k){
+        int si=0,ei=0;
+        int p=1;
+        int c=0;
         while(ei<arr.length){
+            // grow
             p*=arr[ei];
             // shrink
             while(p>=k && si<=ei){
-                p/=arr[si];
-                si++;
+                p/=arr[si++];
             }
-            // ans update
-            ans+=ei-si+1;
+            // update
+            if(p<k) c+=ei-si+1;
             ei++;
         }
-        return ans;
+        return c;
     }
 }
