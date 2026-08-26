@@ -13,7 +13,7 @@ class Solution {
             }
         }
         int even=0;
-        for (double axis = 0; axis < s.length(); axis++) {
+        for (double axis = 0.5; axis < s.length(); axis++) {
             for (double orbit = 0.5; axis+orbit < s.length() && axis-orbit>=0; orbit++) {
                 if(s.charAt((int)(axis-orbit)) != s.charAt((int)(axis+orbit))){
                     break;
