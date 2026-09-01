@@ -20,13 +20,13 @@ class Solution {
         rightSideView_(root,0,ll);
         return ll;
     }
-    public void rightSideView_(TreeNode root,int curr_level,List<Integer> ll) {
-        if(root==null) return;
-        if(max_depth<curr_level){
-            max_depth=curr_level;
+    public void rightSideView_(TreeNode root,int currlevel,List<Integer> ll) {
+        if(root==null) return ;
+        if(max_depth<currlevel){
             ll.add(root.val);
+            max_depth=currlevel;
         }
-        rightSideView_(root.right,curr_level+1,ll);
-        rightSideView_(root.left,curr_level+1,ll);
+        rightSideView_(root.right,currlevel+1,ll);
+        rightSideView_(root.left,currlevel+1,ll);
     }
 }
