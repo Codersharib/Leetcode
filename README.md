@@ -522,4 +522,12 @@ leetcode solution.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Codersharib/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
