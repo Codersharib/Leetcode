@@ -27,7 +27,7 @@ class Solution {
         return node;
     }
     private int search(int[] in, int ilo, int ihi, int item) {
-        for (int i = 0; i <= ihi; i++) {
+        for (int i = ilo; i <= ihi; i++) {
             if (in[i] == item) return i; 
         }
         return 0;
