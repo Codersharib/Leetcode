@@ -23,7 +23,7 @@ class Solution {
                     dummy = dummy.next;
                 }
                 start = head;
-                dummy.next = null;
+                dummy.next = null; // removing cycle
             }
         }
         if (!st.isEmpty()) {
