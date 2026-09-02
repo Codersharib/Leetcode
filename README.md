@@ -537,4 +537,5 @@ leetcode solution.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
