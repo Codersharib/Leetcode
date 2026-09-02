@@ -15,31 +15,30 @@
  */
 class Solution {
     public int maxSumBST(TreeNode root) {
-        return validBST(root).ans;
+        return (int)maxSumBST_(root).ans;
     }
-    public bstpair validBST(TreeNode root){
-        if(root==null) return new bstpair();
-        bstpair lbp=validBST(root.left);
-        bstpair rbp=validBST(root.right);
-        bstpair sbp=new bstpair();
+    public BstPair maxSumBST_(TreeNode root) {
+        if(root==null) return new BstPair();
+        BstPair lbp=maxSumBST_(root.left);
+        BstPair rbp=maxSumBST_(root.right);
+        BstPair sbp=new BstPair();
         sbp.min=Math.min(root.val,Math.min(lbp.min,rbp.min));
         sbp.max=Math.max(root.val,Math.max(lbp.max,rbp.max));
-        sbp.sum=lbp.sum+rbp.sum+root.val;
-        if(lbp.isbst && rbp.isbst && lbp.max<root.val && rbp.min>root.val){
-            sbp.isbst=true;
+        sbp.sum=root.val+lbp.sum+rbp.sum;
+        sbp.isBST=lbp.isBST && rbp.isBST && lbp.max<root.val && rbp.min>root.val;
+        if(sbp.isBST){
             sbp.ans=Math.max(sbp.sum,Math.max(lbp.ans,rbp.ans));
         }
-        else {
-            sbp.isbst=false;
+        else{
             sbp.ans=Math.max(lbp.ans,rbp.ans);
         }
         return sbp;
     }
-    class bstpair{
-        boolean isbst=true;
+    class BstPair{
+        boolean isBST=true;
         long max=Long.MIN_VALUE;
         long min=Long.MAX_VALUE;
-        int sum=0;
-        int ans=0;
+        long sum=0;
+        long ans=0;
     }
 }
