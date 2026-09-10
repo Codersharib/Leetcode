@@ -372,6 +372,7 @@ leetcode solution.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Codersharib/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codersharib/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -395,6 +396,7 @@ leetcode solution.
 | [0785-is-graph-bipartite](https://github.com/Codersharib/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codersharib/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -433,6 +435,7 @@ leetcode solution.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Codersharib/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Codersharib/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Codersharib/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Enumeration
 |  |
 | ------- |
