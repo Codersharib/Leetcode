@@ -538,4 +538,8 @@ leetcode solution.
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Codersharib/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
