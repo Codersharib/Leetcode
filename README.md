@@ -392,6 +392,7 @@ leetcode solution.
 | [0200-number-of-islands](https://github.com/Codersharib/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/Codersharib/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/Codersharib/Leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Codersharib/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Codersharib/Leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -475,6 +476,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Codersharib/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/Codersharib/Leetcode/tree/master/0386-lexicographical-numbers) |
 ## Database
 |  |
 | ------- |
