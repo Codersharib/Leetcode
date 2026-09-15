@@ -25,6 +25,7 @@ leetcode solution.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Codersharib/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Codersharib/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Codersharib/Leetcode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Codersharib/Leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Codersharib/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -43,6 +44,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Codersharib/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Codersharib/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
@@ -91,6 +93,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Codersharib/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Codersharib/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Codersharib/Leetcode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Codersharib/Leetcode/tree/master/0046-permutations) |
@@ -555,4 +558,8 @@ leetcode solution.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Codersharib/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
