@@ -2,19 +2,18 @@ class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<Integer> ll=new ArrayList<>();
         List<List<Integer>> ans=new ArrayList<>();
-        combination(candidates, target, ll, 0,ans);
+        comb_sum(candidates, target, 0, ll,ans);
         return ans;
     }
-    public static void combination(int coin[], int amount, List<Integer> ll, int idx,List<List<Integer>> ans) {
-        if (amount == 0) {
-            // System.out.println(ll);
+    public static void comb_sum(int[] coin,int target,int idx,List<Integer> ll,List<List<Integer>> ans){
+        if(target==0){
             ans.add(new ArrayList<>(ll));
-            return;
+            return ;
         }
         for (int i = idx; i < coin.length; i++) {
-            if (amount >= coin[i]) {
+            if(target>=coin[i]){
                 ll.add(coin[i]);
-                combination(coin, amount - coin[i], ll, i,ans);
+                comb_sum(coin, target-coin[i], i, ll, ans);
                 ll.remove(ll.size()-1);
             }
         }
