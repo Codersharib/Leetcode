@@ -1,22 +1,21 @@
 class Solution {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        List<Integer> curr=new ArrayList<>();
-        List<List<Integer>> res=new ArrayList<>();
-        subset2(nums,0,curr,res);
-        return res;
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> ll=new ArrayList<>();
+        Arrays.sort(nums);
+        Subset(nums, ans, ll, 0);
+        return ans;
     }
-    public static void subset2(int arr[],int n,List<Integer>curr,List<List<Integer>> res){
-        if(n==arr.length){
-            List<Integer> curr_copy=new ArrayList<>(curr);
-            Collections.sort(curr_copy);
-            if(!res.contains(curr_copy)){
-                res.add(new ArrayList<>(curr_copy));
+    public static void Subset(int[] arr,List<List<Integer>> ans,List<Integer> ll,int i){
+        if(i==arr.length){
+            if(!ans.contains(ll)){
+                ans.add(new ArrayList<>(ll));
             }
-            return;
+            return ;
         }
-        subset2(arr, n+1, curr, res);
-        curr.add(arr[n]);
-        subset2(arr, n+1, curr, res);
-        curr.remove(curr.size()-1);
+        Subset(arr, ans, ll, i+1);
+        ll.add(arr[i]);
+        Subset(arr, ans, ll, i+1);
+        ll.remove(ll.size()-1);
     }
 }
