@@ -1,33 +1,26 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-        List<Integer> curr = new ArrayList<>();
-        List<List<Integer>> res = new ArrayList<>();
-        boolean[] used = new boolean[nums.length];
-        permutation(nums, used, curr, res);
-        return res;
+        boolean[] used=new boolean[nums.length];
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> ll=new ArrayList<>();
+        Permutation(nums, used, ans, ll);
+        return ans;
     }
 
-    public static void permutation(int [] arr,boolean used[],List<Integer> curr,List<List<Integer>> res){
-        if(curr.size()==arr.length){
-            res.add(new ArrayList<>(curr));
-            return;
+    public static void Permutation(int[] arr,boolean used[],List<List<Integer>> ans,List<Integer> ll){
+        if(ll.size()==arr.length){
+            if(!ans.contains(ll))
+                ans.add(new ArrayList<>(ll));
+            return ;
         }
-        for(int i=0;i<arr.length;i++) {
-            if(used[i]) continue;
-            if(isPresent(arr,used,i+1,arr[i])==false){
+        for (int i = 0; i < arr.length; i++) {
+            if(!used[i]){
                 used[i]=true;
-                curr.add(arr[i]);
-                permutation(arr,used, curr, res);
-                curr.remove(curr.size()-1);
+                ll.add(arr[i]);
+                Permutation(arr, used, ans, ll);
+                ll.remove(ll.size()-1);
                 used[i]=false;
-
             }
         }
-    }
-    public static boolean isPresent(int[] arr,boolean[] used,int idx,int val){
-        for(int i=idx;i<arr.length;i++) {
-            if(arr[i]==val && used[i]==true) return true;
-        }
-        return false;
     }
 }
