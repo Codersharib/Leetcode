@@ -2,7 +2,6 @@ class Solution {
     public List<List<Integer>> combinationSum3(int k, int n) {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> ll=new ArrayList<>();
-        boolean[] board=new boolean[9];
         combSum3(n,k,0,ll,ans,1);
         return ans;
     }
