@@ -3,25 +3,20 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> ll=new ArrayList<>();
         boolean[] board=new boolean[9];
-        n_queen_combination(board,k,0,0,ll,ans,n);
+        combSum3(n,k,0,ll,ans,1);
         return ans;
     }
 
-    public  void n_queen_combination(boolean[] board,int tq,int qpsf,int idx,List<Integer> ll,List<List<Integer>> al,int amount){
-        if(qpsf==tq){
-            if(amount==0){
-            al.add(new ArrayList<>(ll));
-            return ;
-            }
+    public static void combSum3(int target ,int k,int qpsf,List<Integer> ll,List<List<Integer>> ans,int idx){
+        if(qpsf==k && target ==0){
+            ans.add(new ArrayList<>(ll));
+            return;
         }
-        
-        for (int i = idx; i < board.length; i++) {
-            if(amount>=i+1 && board[i]==false){
-                board[i]=true;
-                ll.add(i+1);
-                n_queen_combination(board, tq,qpsf+1,i+1,ll,al,amount-(i+1));
+        for (int i = idx; i <=9; i++) {
+            if(target -i >=0){
+                ll.add(i);
+                combSum3(target-i, k, qpsf+1, ll, ans,i+1);
                 ll.remove(ll.size()-1);
-                board[i]=false;
             }
         }
     }
