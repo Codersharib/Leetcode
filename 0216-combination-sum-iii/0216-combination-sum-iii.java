@@ -12,6 +12,7 @@ class Solution {
             ans.add(new ArrayList<>(ll));
             return;
         }
+        if(target<0 || qpsf>k) return;
         for (int i = idx; i <=9; i++) {
             if(target -i >=0){
                 ll.add(i);
