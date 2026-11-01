@@ -7,10 +7,17 @@ class Solution {
         return ans;
     }
     public static void Subset(int[] nums,int i,List<List<Integer>> ans,List<Integer> ll){
-        if(!ans.contains(ll)){
-            ans.add(new ArrayList<>(ll));
-        }
+        // if(!ans.contains(ll)){
+        //     ans.add(new ArrayList<>(ll));
+        // }
+        // for (int j = i; j < nums.length; j++) {
+        //     ll.add(nums[j]);
+        //     Subset(nums, j+1, ans, ll);
+        //     ll.remove(ll.size()-1);
+        // }
+        ans.add(new ArrayList<>(ll));
         for (int j = i; j < nums.length; j++) {
+            if(j>i && nums[j]==nums[j-1]) continue;
             ll.add(nums[j]);
             Subset(nums, j+1, ans, ll);
             ll.remove(ll.size()-1);
