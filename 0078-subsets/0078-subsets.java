@@ -2,17 +2,16 @@ class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> ll=new ArrayList<>();
-        Subset(nums, ans, ll, 0);
+        subset1(nums, 0,ans, ll);
         return ans;
     }
-    public static void Subset(int[] arr,List<List<Integer>> ans,List<Integer> ll,int i){
-        if(i==arr.length){
+    public static void subset1(int[] nums,int idx,List<List<Integer>> ans,List<Integer> ll){
             ans.add(new ArrayList<>(ll));
-            return ;
+            
+            for (int j = idx; j < nums.length; j++) {
+                ll.add(nums[j]);
+                subset1(nums, j+1, ans, ll);
+                ll.remove(ll.size()-1);
+            }
         }
-        Subset(arr, ans, ll, i+1);
-        ll.add(arr[i]);
-        Subset(arr, ans, ll, i+1);
-        ll.remove(ll.size()-1);
-    }
 }
