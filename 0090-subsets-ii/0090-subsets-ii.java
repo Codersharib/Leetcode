@@ -3,19 +3,17 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         List<Integer> ll=new ArrayList<>();
         Arrays.sort(nums);
-        Subset(nums, ans, ll, 0);
+        Subset(nums,0, ans, ll);
         return ans;
     }
-    public static void Subset(int[] arr,List<List<Integer>> ans,List<Integer> ll,int i){
-        if(i==arr.length){
-            if(!ans.contains(ll)){
-                ans.add(new ArrayList<>(ll));
-            }
-            return ;
+    public static void Subset(int[] nums,int i,List<List<Integer>> ans,List<Integer> ll){
+        if(!ans.contains(ll)){
+            ans.add(new ArrayList<>(ll));
         }
-        Subset(arr, ans, ll, i+1);
-        ll.add(arr[i]);
-        Subset(arr, ans, ll, i+1);
-        ll.remove(ll.size()-1);
+        for (int j = i; j < nums.length; j++) {
+            ll.add(nums[j]);
+            Subset(nums, j+1, ans, ll);
+            ll.remove(ll.size()-1);
+        }
     }
 }
