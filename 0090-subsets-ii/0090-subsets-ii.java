@@ -6,7 +6,7 @@ class Solution {
         Subset(nums,0, ans, ll);
         return ans;
     }
-    public static void Subset(int[] nums,int i,List<List<Integer>> ans,List<Integer> ll){
+    public static void Subset(int[] nums,int idx,List<List<Integer>> ans,List<Integer> ll){
         // if(!ans.contains(ll)){
         //     ans.add(new ArrayList<>(ll));
         // }
@@ -16,8 +16,8 @@ class Solution {
         //     ll.remove(ll.size()-1);
         // }
         ans.add(new ArrayList<>(ll));
-        for (int j = i; j < nums.length; j++) {
-            if(j>i && nums[j]==nums[j-1]) continue;
+        for (int j = idx; j < nums.length; j++) {
+            if(j>idx && nums[j]==nums[j-1]) continue;
             ll.add(nums[j]);
             Subset(nums, j+1, ans, ll);
             ll.remove(ll.size()-1);
