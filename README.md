@@ -65,6 +65,7 @@ leetcode solution.
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Codersharib/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1143-longest-common-subsequence](https://github.com/Codersharib/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -90,6 +91,7 @@ leetcode solution.
 | [0496-next-greater-element-i](https://github.com/Codersharib/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Codersharib/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Codersharib/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Codersharib/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Codersharib/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Codersharib/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +115,7 @@ leetcode solution.
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Codersharib/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Array
 |  |
@@ -173,6 +176,7 @@ leetcode solution.
 | [0942-di-string-match](https://github.com/Codersharib/Leetcode/tree/master/0942-di-string-match) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Codersharib/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Codersharib/Leetcode/tree/master/0994-rotting-oranges) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Codersharib/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1035-uncrossed-lines](https://github.com/Codersharib/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Codersharib/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -212,6 +216,7 @@ leetcode solution.
 | [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/Codersharib/Leetcode/tree/master/0509-fibonacci-number) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Codersharib/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Codersharib/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -225,6 +230,7 @@ leetcode solution.
 | [0191-number-of-1-bits](https://github.com/Codersharib/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Codersharib/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Codersharib/Leetcode/tree/master/0260-single-number-iii) |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codersharib/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
@@ -582,4 +588,8 @@ leetcode solution.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 <!---LeetCode Topics End-->
