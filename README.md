@@ -33,6 +33,7 @@ leetcode solution.
 | [0115-distinct-subsequences](https://github.com/Codersharib/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Codersharib/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Codersharib/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Codersharib/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Codersharib/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -55,6 +56,7 @@ leetcode solution.
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Codersharib/Leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/Codersharib/Leetcode/tree/master/0221-maximal-square) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Codersharib/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/Codersharib/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -207,6 +209,7 @@ leetcode solution.
 | [0048-rotate-image](https://github.com/Codersharib/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Codersharib/Leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/Codersharib/Leetcode/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -231,6 +234,7 @@ leetcode solution.
 | [0025-reverse-nodes-in-k-group](https://github.com/Codersharib/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Codersharib/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Codersharib/Leetcode/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Codersharib/Leetcode/tree/master/0509-fibonacci-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Simulation
@@ -256,6 +260,7 @@ leetcode solution.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Codersharib/Leetcode/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Codersharib/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -576,4 +581,5 @@ leetcode solution.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Codersharib/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
