@@ -115,6 +115,7 @@ leetcode solution.
 | [0131-palindrome-partitioning](https://github.com/Codersharib/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Codersharib/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Codersharib/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0401-binary-watch](https://github.com/Codersharib/Leetcode/tree/master/0401-binary-watch) |
 | [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Codersharib/Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Array
@@ -230,6 +231,7 @@ leetcode solution.
 | [0191-number-of-1-bits](https://github.com/Codersharib/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Codersharib/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Codersharib/Leetcode/tree/master/0260-single-number-iii) |
+| [0401-binary-watch](https://github.com/Codersharib/Leetcode/tree/master/0401-binary-watch) |
 | [0996-number-of-squareful-arrays](https://github.com/Codersharib/Leetcode/tree/master/0996-number-of-squareful-arrays) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Codersharib/Leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Codersharib/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
